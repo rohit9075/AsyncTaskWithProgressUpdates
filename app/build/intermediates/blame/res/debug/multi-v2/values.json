@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "365,448",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "443,515"
+                    }
+                },
+                {
+                    "source": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1",
+                        "startOffsets": "56,-1,-1,-1",
+                        "endColumns": "46,-1,-1,-1",
+                        "endOffsets": "98,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,216,260,313",
+                        "endColumns": "46,43,52,51",
+                        "endOffsets": "211,255,308,360"
+                    }
+                },
+                {
+                    "source": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

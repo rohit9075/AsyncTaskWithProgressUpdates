@@ -1,0 +1,105 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "365,448",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "443,515"
+                    }
+                },
+                {
+                    "source": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1",
+                        "startOffsets": "56,-1,-1,-1",
+                        "endColumns": "46,-1,-1,-1",
+                        "endOffsets": "98,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,216,260,313",
+                        "endColumns": "46,43,52,51",
+                        "endOffsets": "211,255,308,360"
+                    }
+                },
+                {
+                    "source": "D:\\Restful\\AsyncTaskWithProgressUpdates\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
